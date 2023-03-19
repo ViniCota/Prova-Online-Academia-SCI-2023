@@ -24,9 +24,7 @@ public class DoisJava {
                 menor = nmrs[i];
             }
         }
-
         System.out.println("O maior numero é: " + maior);
         System.out.println("O menor numero é: " + menor);
-
     }
 }

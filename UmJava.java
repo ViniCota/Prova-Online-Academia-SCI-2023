@@ -26,14 +26,12 @@ public class UmJava {
                 nmrsimpar++;
             }
         }
-
         System.out.print("Os numeros pares sao: ");
         for (int i = 0; i < nmrs.length; i++) {
             if (nmrs[i] % 2 == 0) {
                 System.out.print(nmrs[i] + " ");
             }
         }
-
         System.out.print("\nOs numeros impares sao: ");
         for (int i = 0; i < nmrs.length; i++) {
             if (nmrs[i] % 2 != 0) {

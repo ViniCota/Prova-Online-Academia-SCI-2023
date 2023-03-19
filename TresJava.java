@@ -24,6 +24,7 @@ public class TresJava {
             nota4 = Float.parseFloat(JOptionPane.showInputDialog("Informe a quarta nota: "));
 
             media = (nota1 + nota2 + nota3 + nota4) / 4;
+
             if (media >= 6) {
                 JOptionPane.showMessageDialog(null, nome + " foi aprovado(a) com média " + media);
             } else {

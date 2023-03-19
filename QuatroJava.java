@@ -16,6 +16,7 @@ public class QuatroJava {
         for (int i = 0; i < 5; i++) {
             System.out.print("Informe 5 numeros inteiros: ");
             vet[i] = x.nextInt();
+
         }
         System.out.println("O valor da posicao 3 é: " + vet[2]);
     }

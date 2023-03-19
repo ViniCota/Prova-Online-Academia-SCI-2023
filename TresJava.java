@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package provasci;
 
 import java.util.Scanner;
@@ -9,7 +5,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author vinicius
+ * @author vinicius cota
  */
 public class TresJava {
 

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author vinicius
+ * @author vinicius cota
  */
 public class DoisJava {
 
